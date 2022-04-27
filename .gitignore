@@ -1,6 +1,9 @@
 # Whatsapp Clients
 .wwebjs_auth/*
 
+#Conif File
+src/config.json
+
 # Logs
 logs
 *.log

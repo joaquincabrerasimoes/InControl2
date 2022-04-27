@@ -2,9 +2,11 @@
   "name": "incontrol2",
   "version": "0.0.1",
   "description": "",
-  "main": "main.js",
+  "main": "src/main.js",
   "keywords": [],
   "author": "JCABRERA",
   "license": "",
-  "dependencies": {}
+  "devDependencies": {
+    "@types/node": "^17.0.29"
+  }
 }

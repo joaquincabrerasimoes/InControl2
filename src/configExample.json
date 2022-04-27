@@ -1,0 +1,24 @@
+{
+    "Headless" : true,
+    "ChromePath" : "",
+    "FFMPEGPath" : "",
+    "Connections":{
+        "PostgreSQL" : {
+            "url": "",
+            "port": 0,
+            "dbname": "",
+            "user": "",
+            "pass": ""
+        },
+        "MongoDB" : {
+            "url": "",
+            "port": 0,
+            "dbname": "",
+            "user": "",
+            "pass": ""
+        }
+    },
+    "googleAPIKey": "",
+    "twitch_client_id": "",
+    "twitch_client_secret": ""
+}

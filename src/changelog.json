@@ -1,0 +1,21 @@
+{
+    "lattest" : "0.0.1",
+    "versions" : [
+        {
+            "version" : "0.0.2",
+            "releasedate" : "2022/04/27-16:00",
+            "changelog" : [
+                " - Start Up",
+                " - Config",
+                " - Log System"
+            ]
+        },
+        {
+            "version" : "0.0.1",
+            "releasedate" : "2022/04/27-13:00",
+            "changelog" : [
+                " - Init"
+            ]
+        }
+    ]
+}
